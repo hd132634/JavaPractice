@@ -13,16 +13,6 @@ public class Condition {
 		System.out.println("차종 : 고속버스");
 		System.out.println("통행료 : 850원");
 		}
-		else if (s>10 && s<=20)  {
-			System.out.println("거리 : " + s + "km");
-			System.out.println("차종 : 고속버스");
-			System.out.println("통행료 : 1150원");
-			}
-		else if (s>20 && s<=30)  {
-			System.out.println("거리 : " + s + "km");
-			System.out.println("차종 : 고속버스");
-			System.out.println("통행료 : 1450원");
-			}
 		else {
 			System.out.println("거리 : " + s + "km");
 			System.out.println("차종 : 고속버스");
